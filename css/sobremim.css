@@ -1,0 +1,41 @@
+#sobremim {
+    text-align: center;
+    }
+
+.p {
+    text-align: center;
+    
+}
+
+.btn-pdf {
+    border: none;
+    font-size: 23px;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #f4f6fc;
+    background-color: #050a30;
+}
+
+.btn-github {
+    border: none;
+    font-size: 23px;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #f4f6fc;
+    background-color: #050a30;
+}
+
+.btn-linkedin {
+    border: none;
+    font-size: 23px;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #f4f6fc;
+    background-color: #050a30; 
+}

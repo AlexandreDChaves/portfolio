@@ -1,0 +1,41 @@
+#contato {
+    text-align: center;
+    margin: 1em 0 2em 
+}
+
+#formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+form label {
+    display: block;
+    font-size: 20px;
+    margin: 0 auto;
+    }
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+    }
+
+    #enviar {
+     width: 23%;
+     padding: 15px 0;
+     margin: 0 auto;
+     background: #050a30;
+     color: #f4f6fc;
+     font-weight: bold;
+     font-size: 18px;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+    }
+
+    .cabecalhoPrincipal-lista-contato {
+        text-decoration: none;
+    }

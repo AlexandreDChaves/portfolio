@@ -1,0 +1,42 @@
+.hobbie-titulo {
+    text-align: center;
+    margin: 3em 0 0;
+   }
+
+#hobbies {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   padding: 5rem 0 0 5rem;
+  
+      
+}
+
+.hobbie {
+   display: flex;
+   flex-direction: column;
+   margin-bottom: 5rem;
+   margin-right: 5rem;
+   
+}
+
+.cabecalhoPrincipal-lista-hobbies {
+   text-decoration: none;
+}
+
+.hobbie-imagem {
+   width: 80px;
+}
+
+.hobbie-conteudo{
+   padding: 1rem;
+}
+
+.hobbie-sub-titulo {
+   font-size: 15px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   float: right;   
+   width: 50px;
+}

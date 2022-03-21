@@ -1,0 +1,39 @@
+#soft-skills {
+    text-align: center;
+    margin: 1em 0 0
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5rem 0 0 5rem;  
+}
+
+.skill {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5rem;
+    margin-right: 5rem;  
+}
+
+.cabecalhoPrincipal-lista-soft-skills {
+    text-decoration: none;
+}
+
+.skill-imagem {
+    width: 80px;
+}
+
+.skill-conteudo {
+    padding: 1rem;
+}
+
+.skill-sub-titulo {
+    font-size: 15px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    float: right;   
+    width: 50px; 
+}

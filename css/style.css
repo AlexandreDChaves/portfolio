@@ -1,0 +1,73 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    }
+
+.cabecalhoPrincipal-lista-item {
+    padding: 10px;
+    margin-bottom: 10px;
+    color: #333333;
+    background-color: #FFF;
+    text-decoration: none;
+    transition: .5s;
+    display: block;
+   }
+
+ .cabecalhoPrincipal-lista-item:hover {
+    background: #333;
+    color: #FFF;
+    -moz-box-shadow: 0 3px 10px 0 #ccc;
+    -webkit-box-shadow: 0 3px 10px 0 #ccc;
+    text-shadow: 0px 0px 5px #FFF;
+   }
+
+   .cabecalhoPrincipal-lista-sobremim {
+       text-decoration: none;
+   }
+
+.banner {
+    width: 100%;
+    background: center;
+    background-size: cover;
+}
+
+#experiencia-profissional {
+    text-align: center;
+    margin: 3rem;
+}
+
+.cabecalhoPrincipal-lista-experiencia-profissional {
+    text-decoration: none;
+}
+
+.btn-forca {
+    border: none;
+    font-size: 23px;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #f4f6fc;
+    background-color: #050a30;  
+}
+
+.btn-critp {
+    border: none;
+    font-size: 23px;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #f4f6fc;
+    background-color: #050a30;     
+}
+
+.btn-flix {
+    border: none;
+    font-size: 23px;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #f4f6fc;
+    background-color: #050a30;   
+}

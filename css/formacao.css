@@ -1,0 +1,26 @@
+#formacao {
+    text-align: center;
+    margin: 1em 0 2em 
+}
+
+.formacao_inicial {
+    display: flex;
+    justify-content: space-around;
+}
+
+.fomacao {
+    display: flex;
+    flex-direction: column;
+   }
+
+   .cabecalhoPrincipal-lista-formacao {
+       text-decoration: none;
+   }
+
+.formacao-imagem {
+    background: center;
+    background-size: cover;
+    width: 500px;
+    height: 250px;
+    
+}

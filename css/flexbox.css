@@ -1,0 +1,29 @@
+.cabecalhoPrincipal .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cabecalhoPrincipal-lista {
+    display: flex;
+}
+
+.botao {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+.botao-git {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    }
+
+.botao-item {
+    width: 10%;
+    margin-bottom: 1%;
+    padding: 5%;
+    list-style: none;
+}
+
