@@ -1,6 +1,16 @@
 body {
     font-family: 'Ubuntu', sans-serif;
+    height: 100vh;
+    margin: 0;
     }
+
+header .container{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: auto;
+}
 
 .cabecalhoPrincipal-lista-item {
     padding: 10px;
@@ -9,7 +19,7 @@ body {
     background-color: #FFF;
     text-decoration: none;
     transition: .5s;
-    display: block;
+    display: flex;
    }
 
  .cabecalhoPrincipal-lista-item:hover {
@@ -20,23 +30,19 @@ body {
     text-shadow: 0px 0px 5px #FFF;
    }
 
-   .cabecalhoPrincipal-lista-sobremim {
+   .cabecalhoPrincipal-lista-sobremim, .cabecalhoPrincipal-lista-experiencia-profissional {
        text-decoration: none;
    }
 
 .banner {
     width: 100%;
-    background: center;
-    background-size: cover;
+    margin: auto;
+      
 }
 
 #experiencia-profissional {
     text-align: center;
     margin: 3rem;
-}
-
-.cabecalhoPrincipal-lista-experiencia-profissional {
-    text-decoration: none;
 }
 
 .btn-forca {

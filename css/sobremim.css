@@ -4,8 +4,12 @@
 
 .p {
     text-align: center;
-    
-}
+ }
+
+.botao{
+    display: flex;
+    justify-content: center;
+   }
 
 .btn-pdf {
     border: none;
@@ -16,7 +20,7 @@
     border-radius: 5px;
     color: #f4f6fc;
     background-color: #050a30;
-}
+    }
 
 .btn-github {
     border: none;

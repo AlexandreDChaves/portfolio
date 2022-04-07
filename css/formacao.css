@@ -5,15 +5,11 @@
 
 .formacao_inicial {
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
-.fomacao {
-    display: flex;
-    flex-direction: column;
-   }
-
-   .cabecalhoPrincipal-lista-formacao {
+.cabecalhoPrincipal-lista-formacao {
        text-decoration: none;
    }
 
