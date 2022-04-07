@@ -24,7 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
 # Clonar o respositório
-$ git clone https://github.com/AlexandreDChaves/portifolio
+$ git clone https://github.com/AlexandreDChaves/portfolio
 
 # Entrar no didretório
 $ cd Cript
